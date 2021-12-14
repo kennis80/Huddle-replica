@@ -1,0 +1,25 @@
+.body{
+    background-image: url(./Images/backgrd.jpeg);
+}
+.zubby h1{
+    text-align: center;
+}
+.zubby p{
+    text-align: center;
+    margin-top: 20px;
+}
+.zubby button{
+   margin-right: 600px;
+   margin-top: 20px ;
+   height: 60px;
+   width: 400px;
+   background-color:#e45870;
+   color: white;
+   border-color: pink;
+   border-radius: 20px;
+}
+.zubby img{
+    margin-right: 200px;
+  padding-top: 40px;
+}
+

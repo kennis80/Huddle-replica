@@ -1,11 +1,17 @@
 .App {
-  text-align: center;
+  text-align: right;
+
+  
+}
+.get h1{
+  color: red;
 }
 
-.App-logo {
+ .App-logo {
   height: 40vmin;
-  pointer-events: none;
-}
+  pointer-events: none; 
+  
+} 
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

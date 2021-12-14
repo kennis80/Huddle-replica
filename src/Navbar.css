@@ -1,0 +1,32 @@
+/* .stage1{
+    text-align: left;
+    padding-left: 80px;
+    margin-top: 50px;
+
+}
+.scot{
+    padding-left:80%;
+    margin-bottom:20%;
+    text-align: left;
+
+} */
+.top{
+    display: flex;
+}
+.top button{
+    margin-left: 1200px;
+    margin-top: 30px;
+    background-color: white;
+    color: pink;
+    border-radius: 15px;
+    height: 40px;
+    width: 200px;
+    border-color: pink;
+}
+.top img{
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.top h1{
+    margin-bottom: 50px;
+}
